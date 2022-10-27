@@ -1,9 +1,13 @@
 body {
-  background: #eeedec;
+  background: hsla(248, 32%, 27%, 1);
   letter-spacing: 0.2em;
   font-size: 1em;
+  color: #FFF;
 }
 
+.card {
+  border: none;
+}
 .container {
   max-width: 480px;
 }
