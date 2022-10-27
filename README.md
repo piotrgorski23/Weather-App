@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-Simple quiz app, which will lay the foundations of future bigger, better quiz app I want to build
+Weather App which will help me be better with JavaScript
 
 ## Technologies
 Project is created with:
